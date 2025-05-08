@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Kavishka Kadeshan
+# 👋 Hello! I'm Kavishka Deshan
 
 Welcome to my GitHub profile! I'm an aspiring web developer passionate about building creative and user-friendly applications.
 
