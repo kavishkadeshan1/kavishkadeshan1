@@ -14,19 +14,7 @@ Welcome to my GitHub profile! I'm an aspiring web developer passionate about bui
 ---
 
 ## 🚀 Projects
-
-- 
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: *kavishkadeshan@gmail.com*  
-- 🌐 LinkedIn: *[add-your-link]*
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+- https://kavishkadeshan1.github.io/text-editor-application/
 
 ⭐️ Thanks for visiting my profile! Don’t forget to check out my projects!
 
