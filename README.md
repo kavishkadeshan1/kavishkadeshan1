@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an aspiring web developer passionate about bui
 ---
 
 ## 🚀 Projects
-- https://kavishkadeshan1.github.io/text-editor-application/
+🔗 [Text Editor Web App](https://kavishkadeshan1.github.io/text-editor-application/)
 
 ⭐️ Thanks for visiting my profile! Don’t forget to check out my projects!
 
