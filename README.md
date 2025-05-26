@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an aspiring web developer passionate about bui
 A simple and clean web-based text editor application.  
 Check it out here:
 
-### 🔗 [Text Editor Web App]   https://kavishkadeshan1.github.io/text-editor-application/
+### 🔗 [Text Editor Web App](https://kavishkadeshan1.github.io/text-editor-application/)
  
 
 ---
