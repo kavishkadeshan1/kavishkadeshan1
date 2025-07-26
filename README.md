@@ -19,7 +19,6 @@ A simple and clean web-based text editor application.
 Check it out here:
 
 ### 🔗 [Text Editor Web App](https://kavishkadeshan1.github.io/text-editor-application/)  
-### 🔗 [HTML Portfolio](https://kavishkadeshan1.github.io/html-portfolio/index.html)
 
  
 
