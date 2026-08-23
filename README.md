@@ -39,7 +39,7 @@ I build scalable full-stack applications and focus on understanding systems — 
 - 🌱 Currently learning **Advanced System Design & Cloud Architecture**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, Next.js, and System Architecture**
-- 📫 How to reach me: **[kavishkadeshan2003@gmail.com](mailto:kavishkadeshan2003@gmail.com)**
+- 📫 How to reach me: **[gmail](mailto:kavishkadeshan2003@gmail.com)**
 
 ---
 
